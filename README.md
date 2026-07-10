@@ -4,6 +4,8 @@ Script utilitário para admins — desenha um círculo (marker) ao redor do joga
 
 ---
 
+<img width="50%" height="50%" alt="radius1" src="https://github.com/user-attachments/assets/adc5eb41-d568-43cd-a058-7773f9a7412a" /> <img width="50%" height="50%" alt="radius2" src="https://github.com/user-attachments/assets/fff4c73c-edb5-49db-9df7-4a80b2db3377" />
+
 ## 🇧🇷 Português (Brasileiro)
 
 ### Instalação
